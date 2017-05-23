@@ -1,0 +1,6 @@
+﻿  union_1.c
+  main.c
+c:\users\dsm2017\google 드라이브\자료\프로젝트\github\c_study\c_study\c_study\main.c(4): warning C4013: 'union_9'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+main.obj : error LNK2019: _union_9 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\dsm2017\Google 드라이브\자료\프로젝트\GitHub\C_Study\C_Study\Debug\C_Study.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
